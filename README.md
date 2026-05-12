@@ -1,5 +1,8 @@
 # Blocking Hashtags from your Mastodon instance
 
+> [!NOTE]
+> This repository has moved. For the latest version see [code.thms.uk/michael/mastodon_block_hashtags](https://code.thms.uk/michael/mastodon_block_hashtags)
+
 This repository contains a script for blocking / removing posts containing media with certain hash-tags and blocking their authors.
 
 ## Motivation
